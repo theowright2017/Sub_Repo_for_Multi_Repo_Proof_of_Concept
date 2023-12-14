@@ -1,11 +1,15 @@
 {
   "name": "sub-package-theo-w24",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "sub package to represent exams",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }
