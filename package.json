@@ -1,6 +1,6 @@
 {
   "name": "sub-package-theo-w24",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "sub package to represent exams",
   "main": "index.js",
   "type": "module",
